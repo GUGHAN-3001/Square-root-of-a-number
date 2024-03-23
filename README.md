@@ -24,6 +24,7 @@ RegisterNumber:
 ```
 
 ## Output:
+![Screenshot (98)](https://github.com/drgbhuvaneswari/Square-root-of-a-number/assets/150009432/1c64ed1f-2506-4256-9157-6dc1eacea56f)
 
 
 
